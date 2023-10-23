@@ -15,7 +15,7 @@
 <hr>
 <h3>📚 Наш стек:</h3>
 <ul>
-  <li>Верстка - AutoLayout / <a href-"//TODO">Figma</a></li>
+  <li>Верстка - AutoLayout / <a href-"[//TODO](https://www.figma.com/file/wxKMX9MxF8zgmq7ZrVekZ9/Untitled?type=design&node-id=23%3A798&mode=design&t=OeAxZfH8RPsutNgd-1)">Figma</a></li>
   <li>Архитектура - MVC + MVP</li>
   <li>База данных - FireBase</li>
   <li>Чистяков Арсений</li>
