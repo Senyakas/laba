@@ -22,4 +22,4 @@
   <li>Чистяков Арсений</li>
 </ul>
 <hr>
-<i class="bi bi-github"></i>
+<i class="bi bi-github">аукакка</i>
