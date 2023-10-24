@@ -22,5 +22,5 @@
 </ul>
 <hr>
 <h3>🪩 Наш макет</h3>
-  <a href="https://www.figma.com/file/wxKMX9MxF8zgmq7ZrVekZ9/Untitled?type=design&node-id=23%3A798&mode=design&t=OeAxZfH8RPsutNgd-1">Figma</a>
+  <p></p><a href="https://www.figma.com/file/wxKMX9MxF8zgmq7ZrVekZ9/Untitled?type=design&node-id=23%3A798&mode=design&t=OeAxZfH8RPsutNgd-1">Figma</a></p>
 <hr>
