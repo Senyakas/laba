@@ -15,8 +15,12 @@
 <hr>
 <h3>📚 Наш стек:</h3>
 <ul>
-  <li>Верстка - AutoLayout / <a href="https://www.figma.com/file/wxKMX9MxF8zgmq7ZrVekZ9/Untitled?type=design&node-id=23%3A798&mode=design&t=OeAxZfH8RPsutNgd-1">Figma</a></li>
+  <li>Верстка - Кодом</li>
   <li>Архитектура - MVC + MVP</li>
-  <li>База данных - FireBase</li>
+  <li>Сеть - FireBase</li>
+  <li>Библиотека - third party</li>
 </ul>
+<hr>
+<h3>🪩 Наш макет</h3>
+  <a href="https://www.figma.com/file/wxKMX9MxF8zgmq7ZrVekZ9/Untitled?type=design&node-id=23%3A798&mode=design&t=OeAxZfH8RPsutNgd-1">Figma</a>
 <hr>
